@@ -1,0 +1,10 @@
+
+.comb-img {
+    width: 300px;
+}
+
+.combinations {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
