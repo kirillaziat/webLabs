@@ -51,6 +51,10 @@ header {
     background: #B57575;
 }
 
+.nav__clicked {
+    text-decoration: underline;
+}
+
 main {
     padding:80px 30px 30px 30px;
     margin-left: 100px;

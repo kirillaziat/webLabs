@@ -1,0 +1,21 @@
+.table__container {
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    grid-template-rows: repeat(4, 30px);
+
+    text-align: center;
+    text-justify: auto;
+    font-size: 16px;
+    font-family: 'Noto Sans', sans-serif;
+    color: #696565;
+    border: 1px solid #dddddd;
+}
+
+.table__row {
+    display: contents;
+}
+
+.table__row-gray .table__elem {
+    background-color: #ddd;
+
+}
